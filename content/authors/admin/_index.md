@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc in the Department of Earth System Science at the University of California, Irvine. 
+I am a postdoc in the [Department of Earth System Science](https://www.ess.uci.edu/) at the University of California, Irvine. 
 My research focuses on global marine biogeochemical cycles.
 It is quite an interdisciplinary field that involving mathematics, physics, biology, chemistry, and computer science.
 
