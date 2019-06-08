@@ -36,7 +36,7 @@ education:
   - course: MSc in Finanacial Mathematics
     institution: Université Paris Dauphine
     year: 2008
-   - course: MSc in Engineering
+  - course: MSc in Engineering
     institution: École Polytechnique
     year: 2007
 
