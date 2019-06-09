@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Irvine, California, USA"
   date_start = "2017-09-01"
   date_end = ""
-  description = "Working on improving global biogeochemistry models with J. Keith Moore and François Primeau."
+  description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and François Primeau."
 
 [[experience]]
   title = "Casual Research Assistant"
