@@ -21,22 +21,26 @@ organizations:
 bio: My research interests include mathematics, oceanography, and computer science.
 
 interests:
+- Mathematics
 - Model development
 - Optimization
+- Computer science
+- Oceanography
 - Biogeochemistry
+
 
 education:
   courses:
   - course: PhD in Applied Mathematics
     institution: University of New South Wales
     year: 2017
-  - course: MSc in Applied Mathematics
+  - course: MSc in Environmental Science
     institution: University of New South Wales
     year: 2010
-  - course: MSc in Finanacial Mathematics
+  - course: MSc in Finance Mathematics
     institution: Université Paris Dauphine
     year: 2008
-  - course: MSc in Engineering
+  - course: MSc in Mathematics and Engineering
     institution: École Polytechnique
     year: 2007
 
