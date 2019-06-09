@@ -22,10 +22,10 @@ bio: My research interests include mathematics, oceanography, and computer scien
 
 interests:
 - Mathematics
+- Oceanography
 - Model development
 - Optimization
 - Computer science
-- Oceanography
 - Biogeochemistry
 
 
