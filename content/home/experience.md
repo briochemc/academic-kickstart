@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Irvine, California, USA"
   date_start = "2017-09-01"
   date_end = ""
-  description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and François Primeau."
+  description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and [François Primeau](https://www.ess.uci.edu/people/fprimeau)."
 
 [[experience]]
   title = "Casual Research Assistant"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Sydney, Australia"
   date_start = "2017-09-01"
   date_end = "2017-03-01"
-  description = "Continuing PhD work with Mark Holzer."
+  description = "Continuing PhD work with [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)."
 
 [[experience]]
   title = "Mathematics Tutor"
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   location = "Palaiseau, France"
   date_start = "2007-04-01"
   date_end = "2007-07-01"
-  description = "École Polytechnique Specialty (Mathematics) Internship at the Laurent Schwartz Mathematics Center under the direction of Jean Lannes. Calculated the Witt ring of quadratic forms defined on number fields, on the field of p-adic numbers, and on Dedekind rings such as the integers."
+  description = "École Polytechnique Specialty (Mathematics) Internship at the Laurent Schwartz Mathematics Center under the direction of [Jean Lannes](https://fr.wikipedia.org/wiki/Jean_Lannes_(math%C3%A9maticien)). Calculated the Witt ring of quadratic forms defined on number fields, on the field of p-adic numbers, and on Dedekind rings such as the integers."
 
 [[experience]]
   title = "IT Intern"
