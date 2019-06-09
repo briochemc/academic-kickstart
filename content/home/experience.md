@@ -26,7 +26,7 @@ University of California, Irvine"""
   location = "Irvine, California, USA"
   date_start = "2017-09-15"
   date_end = ""
-  description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and [François Primeau](https://www.ess.uci.edu/people/fprimeau)"
+  description = "Working on improving global biogeochemistry models with J. Keith Moore and François Primeau."
 
 [[experience]]
   title = "Casual Research Assistant"
@@ -36,7 +36,7 @@ University of New South Wales"""
   location = "Sydney, Australia"
   date_start = "2017-09-14"
   date_end = "2017-03-01"
-  description = "Continuing PhD work with [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)."
+  description = "Continuing PhD work with Mark Holzer."
 
 [[experience]]
   title = "Mathematics Tutor"
