@@ -25,7 +25,7 @@ University of California, Irvine"""
   company_url = "https://www.ess.uci.edu/"
   location = "Irvine, California, USA"
   date_start = "2017-09-15"
-  date_end = "present"
+  date_end = ""
   description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and [François Primeau](https://www.ess.uci.edu/people/fprimeau)"
 
 [[experience]]
