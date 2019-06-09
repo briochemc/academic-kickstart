@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC011821
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
