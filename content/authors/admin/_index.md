@@ -78,7 +78,6 @@ user_groups:
 ---
 
 I am a postdoc in the [Department of Earth System Science](https://www.ess.uci.edu/) at the University of California, Irvine. 
-My research focuses on global marine biogeochemical cycles.
-It is quite an interdisciplinary field that involving mathematics, physics, biology, chemistry, and computer science.
+My research focuses on global marine biogeochemical cycles, which is quite an interdisciplinary field involving mathematics, physics, biology, chemistry, and computer science.
 
 Lately I have been developing [AIBECS](https://github.com/briochemc/AIBECS.jl), a Julia package to allow oceanographers to simulate marine tracers with ease — check it out!
