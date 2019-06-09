@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Researcher"
-  company = """Department of Earth System Science
-University of California, Irvine"""
+  company = "Department of Earth System Science, University of California, Irvine"
   company_url = "https://www.ess.uci.edu/"
   location = "Irvine, California, USA"
   date_start = "2017-09-15"
@@ -30,8 +29,7 @@ University of California, Irvine"""
 
 [[experience]]
   title = "Casual Research Assistant"
-  company = """School of Mathematics and Statistics
-University of New South Wales"""
+  company = "School of Mathematics and Statistics, University of New South Wales"
   company_url = "https://www.maths.unsw.edu.au/"
   location = "Sydney, Australia"
   date_start = "2017-09-14"
@@ -40,8 +38,7 @@ University of New South Wales"""
 
 [[experience]]
   title = "Mathematics Tutor"
-  company = """School of Mathematics and Statistics
-University of New South Wales"""
+  company = "School of Mathematics and Statistics, University of New South Wales"
   company_url = "https://www.maths.unsw.edu.au/"
   location = "Sydney, NSW, Australia"
   date_start = "2016-12-31"
