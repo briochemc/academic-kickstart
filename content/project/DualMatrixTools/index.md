@@ -33,34 +33,9 @@ url_video: ""
 slides: example
 ---
 
-# DualMatrixTools.jl
+DualMatrixTools is a Julia package for solving dual-valued linear systems.
 
-<p>
-  <a href="https://doi.org/10.5281/zenodo.1493571">
-    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1493571.svg" alt="DOI">
-  </a>
-  <a href="https://briochemc.github.io/DualMatrixTools.jl/stable">
-    <img src=https://img.shields.io/badge/docs-stable-blue.svg>
-  </a>
-  <a href="https://travis-ci.com/briochemc/DualMatrixTools.jl">
-    <img alt="Build Status" src="https://travis-ci.com/briochemc/DualMatrixTools.jl.svg?branch=master">
-  </a>
-  <a href="https://travis-ci.org/briochemc/DualMatrixTools.jl">
-    <img alt="Build Status" src="https://travis-ci.org/briochemc/DualMatrixTools.jl.svg?branch=master">
-  </a>
-  <a href='https://coveralls.io/github/briochemc/DualMatrixTools.jl?branch=master'>
-    <img src='https://coveralls.io/repos/github/briochemc/DualMatrixTools.jl/badge.svg?branch=master' alt='Coverage Status' />
-  </a>
-  <a href="https://codecov.io/gh/briochemc/DualMatrixTools.jl">
-    <img src="https://codecov.io/gh/briochemc/DualMatrixTools.jl/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/briochemc/DualMatrixTools.jl/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  </a>
-</p>
-
-This package provides an overloaded `factorize` and `\` that work with dual-valued arrays.
-
+Essentially, it provides an overload for [Julia](https://julialang.org/)'s `factorize` and `\` functions that work with dual-valued arrays.
 It uses the dual type defined by the [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) package.
 The idea is that for a dual-valued matrix
 
@@ -80,22 +55,27 @@ Note the same idea extends to hyper dual numbers (see the [HyperDualMatrixTools.
 ## Usage
 
 1. Create your dual-valued matrix `M`:
+
     ```julia
     julia> M = A + ε * B
     ```
 
 2. Apply `\` to solve systems of the type `M * x = b`
+
     - without factorization:
+
         ```julia
         julia> x = M \ b
         ```
 
     - or better, with prior factorization:
+
         ```julia
         julia> Mf = factorize(M)
 
         julia> x = Mf \ b
         ```
+
         (This is better in case you want to solve for another `b`!)
 
 ## Advanced usage
@@ -104,10 +84,13 @@ In the context of iterative processes with multiple factorizations and forward a
 This package provides an in-place `factorize`, with a flag to update (or not) the factors.
 Usage is straightforward.
 By default, `factorize` does *not* update the factors
+
 ```julia
 julia> factorize(Mf, M) # only Mf.B is updated
 ```
+
 If you want to update the real-valued factors too, use
+
 ```julia
 julia> factorize(Mf, M, update_factors=true) # Mf.B and Mf.Af are updated
 ```
@@ -115,4 +98,4 @@ julia> factorize(Mf, M, update_factors=true) # Mf.B and Mf.Af are updated
 ## Citation
 
 If you use this package, please cite it!
-There should be a button on this page, or you can use the bibtex entry in the GitHub repository, [CITATION.bib](CITATION.bib), or go to the [Zenodo record of the package](https://doi.org/10.5281/zenodo.1493571) and export the citation from there (the "Export" box at the bottom of that page).
+Use the button at the top of this page, or go to the [Zenodo record of the package](https://doi.org/10.5281/zenodo.1493571) and export the citation from there (the "Export" box at the bottom of that page).
