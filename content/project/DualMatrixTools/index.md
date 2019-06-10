@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Source
   url: https://github.com/briochemc/DualMatrixTools.jl
-url_code: ""
+url_code: "https://github.com/briochemc/DualMatrixTools.jl"
 url_pdf: ""
 url_slides: ""
 url_video: ""
