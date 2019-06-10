@@ -75,6 +75,10 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+header:
+  image: "clouds.png"
+  caption: ""
 ---
 
 I am a postdoc in the [Department of Earth System Science](https://www.ess.uci.edu/) at the University of California, Irvine. 
