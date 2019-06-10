@@ -11,9 +11,10 @@ date: "2019-05-06T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-# image:
-#   caption:
-#   focal_point:
+image:
+  caption: "Solving a dual-valued linear system"
+  focal_point: Center
+  preview_only: true
 
 links:
 - icon: github
