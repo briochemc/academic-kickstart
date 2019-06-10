@@ -11,10 +11,9 @@ date: "2019-05-06T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption:
-  focal_point:
-  preview_only = true
+# image:
+#   caption:
+#   focal_point:
 
 links:
 - icon: github
