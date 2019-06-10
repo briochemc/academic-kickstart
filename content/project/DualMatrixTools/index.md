@@ -1,6 +1,6 @@
 ---
 title: Dual Matrix Tools
-summary: DualMatrixTools.jl: A Julia package for solving dual-valued linear systems.
+summary: "DualMatrixTools.jl: A Julia package for solving dual-valued linear systems."
 tags:
 - Algebra
 - Julia
