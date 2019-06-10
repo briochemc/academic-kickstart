@@ -12,8 +12,9 @@ date: "2019-05-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption:
+  focal_point:
+  preview_only = true
 
 links:
 - icon: github
@@ -32,6 +33,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+<img src="featured.png" alt="logo" title="logo" align="center" height="400"/>
 
 DualMatrixTools is a Julia package for solving dual-valued linear systems.
 
