@@ -46,7 +46,7 @@ url_video: ''
 image:
   caption: 'Iron age at the surface of the ocean — see [*Holzer et al.*, 2016](10.1002/2016GB005418)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
