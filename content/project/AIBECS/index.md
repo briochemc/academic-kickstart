@@ -2,8 +2,10 @@
 title: AIBECS
 summary: The ideal tool for exploring global marine biogeochemical cycles.
 tags:
-- Global Marine Biogeochemistry
-- software
+- Oceanography
+- Global Marine Biogeochemical Cycles
+- Julia
+- Automatic Differentiation
 date: "2019-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
