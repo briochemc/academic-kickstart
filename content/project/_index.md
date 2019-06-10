@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Projects
 
 # View.
 #   1 = List
@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+A couple of open-source projects on GitHub
