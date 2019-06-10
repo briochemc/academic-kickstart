@@ -11,4 +11,7 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+image = "clouds.png"  # Name of image in `static/img/`.
+image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
