@@ -13,5 +13,5 @@ title = "Biography"
 author = "admin"
 
 image = "clouds.png"  # Name of image in `static/img/`.
-image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
