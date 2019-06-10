@@ -17,7 +17,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Star
+  name: Source
   url: https://github.com/briochemc/F1Method.jl
 url_code: ""
 url_pdf: ""

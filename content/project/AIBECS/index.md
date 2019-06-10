@@ -18,7 +18,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Star
+  name:
   url: https://github.com/briochemc/AIBECS.jl
 url_code: ""
 url_pdf: ""
