@@ -23,6 +23,10 @@
   url = "#talks"
   weight = 40
 
+[[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 50
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
