@@ -12,8 +12,8 @@ date: "2019-05-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Solving a dual-valued linear system"
-  focal_point: Center
+  caption: 'Solving a dual-valued linear system'
+  focal_point: ""
   preview_only: true
 
 links:
