@@ -12,16 +12,16 @@ date: "2019-05-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Solving a dual-valued linear system'
-  focal_point: ""
+  caption: "Solving a dual-valued linear system"
+  focal_point: "Center"
   preview_only: true
 
 links:
 - icon: github
   icon_pack: fab
-  name: Source
+  name: Source code
   url: https://github.com/briochemc/DualMatrixTools.jl
-url_code: "https://github.com/briochemc/DualMatrixTools.jl"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
