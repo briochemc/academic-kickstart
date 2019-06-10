@@ -1,6 +1,6 @@
 ---
-title: DualMatrixTools
-summary: A Julia package for solving dual-valued linear systems.
+title: Dual Matrix Tools
+summary: DualMatrixTools.jl: A Julia package for solving dual-valued linear systems.
 tags:
 - Algebra
 - Julia
@@ -36,7 +36,7 @@ slides: example
 
 <img src="featured.png" alt="logo" title="logo" align="center" height="400"/>
 
-DualMatrixTools is a Julia package for solving dual-valued linear systems.
+[DualMatrixTools](https://github.com/briochemc/DualMatrixTools.jl) is a Julia package for solving dual-valued linear systems.
 
 Essentially, it provides an overload for [Julia](https://julialang.org/)'s `factorize` and `\` functions that work with dual-valued arrays.
 It uses the dual type defined by the [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) package.
