@@ -34,7 +34,7 @@ url_video: ""
 slides: example
 ---
 
-<img src="featured.png" alt="logo" title="logo" align="center" height="400"/>
+<img src="featured.png" title="Solving a dual-valued linear system" align="center" width="100%"/>
 
 [DualMatrixTools](https://github.com/briochemc/DualMatrixTools.jl) is a Julia package for solving dual-valued linear systems.
 
