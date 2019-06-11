@@ -4,8 +4,6 @@ summary: "Inpaintings.jl: A Julia package to inpaint missing data."
 tags:
 - Algebra
 - Julia
-- AD
-- Dual Numbers
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
