@@ -42,11 +42,11 @@ Essentially, it provides an overload for [Julia](https://julialang.org/)'s `fact
 It uses the dual type defined by the [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) package.
 The idea is that for a dual-valued matrix
 
-$$M = A + \varepsilon \, B,$$
+$$M = A + \varepsilon B,$$
 
 its inverse is given by
 
-$$M^{-1} = (I - \varepsilon \, A^{-1} \, B) A^{-1}.$$
+$$M^{-1} = (I - \varepsilon A^{-1} B) A^{-1}.$$
 
 Therefore, only the inverse of $A$ is required to evaluate the inverse of $M$.
 This package makes available a `DualFactors` type which containts (i) the factors of $A$ and (ii) the non-real part, $B$.
