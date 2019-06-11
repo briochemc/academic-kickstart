@@ -7,6 +7,9 @@ color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
+# Trying to add backgournd image
+watermark = "../../static/img/clouds.jpg"
+
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "default"
