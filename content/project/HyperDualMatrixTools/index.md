@@ -4,7 +4,7 @@ summary: "HyperDualMatrixTools.jl: A Julia package for solving hyperdual-valued 
 tags:
 - Algebra
 - Julia
-- Automatic Differentiation
+- AD
 - Dual Numbers
 - Hyperdual Numbers
 date: "2018-11-30T00:00:00Z"

@@ -4,7 +4,7 @@ summary: "DualMatrixTools.jl: A Julia package for solving dual-valued linear sys
 tags:
 - Algebra
 - Julia
-- Automatic Differentiation
+- AD
 - Dual Numbers
 date: "2019-05-06T00:00:00Z"
 
