@@ -30,10 +30,6 @@ subtitle = ""
     tag = "Julia"
 
   [[content.filter_button]]
-    name = "MATLAB"
-    tag = "MATLAB"
-
-  [[content.filter_button]]
     name = "AD"
     tag = "AD"
 
