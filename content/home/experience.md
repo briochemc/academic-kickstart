@@ -84,4 +84,3 @@ date_format = "Jan 2006"
 
 +++
 
-{{% staticref "files/myCV.pdf" %}}Download my CV{{% /staticref %}}
