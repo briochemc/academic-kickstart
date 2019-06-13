@@ -47,5 +47,5 @@ This is a work in progress, therefore PRs, suggestions, and generally help are, 
 
 In order to facilitate the use of WOA data in [AIBECS.jl](https://github.com/briochemc/AIBECS.jl), the [WorldOceanAtlasTools.jl](https://github.com/briochemc/WorldOceanAtlasTools.jl) package can use a `grid` from the [OceanGrids.jl](https://github.com/briochemc/OceanGrids.jl) package and bin a WOA tracer into that grid, and uses the [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) package to decide where to bin each observation.
 
-If you use this package, please cite it using the [CITATION.bib](./CITATION.bib) file, and cite the WOA references using the `citation` function or use the corresponding bibtex entries in the [CITATION.bib](./CITATION.bib) file. 
+If you use this package, please cite it using the button at the top of this page, and cite the WOA references using the `citation` function or use the corresponding bibtex entries in the `CITATION.bib` file at the root of the GitHub repository.
 
