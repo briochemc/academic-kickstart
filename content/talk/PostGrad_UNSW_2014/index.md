@@ -11,10 +11,10 @@ abstract: >
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2014-10-01"
 #date_end: "2014-10-01T10:45:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2014-09-01T00:00:00Z"
+#publishDate: "2014-09-01T00:00:00Z"
 
 authors:
 - admin
