@@ -1,5 +1,6 @@
 ---
-title: Response of the biological pump to perturbations in the iron supply: Global teleconnections diagnosed using an inverse model of the coupled phosphorus–silicon–iron nutrient cycles
+title: >
+  Response of the biological pump to perturbations in the iron supply: Global teleconnections diagnosed using an inverse model of the coupled phosphorus–silicon–iron nutrient cycles
 event: AMOS National Conference 2017
 event_url: https://www.amos.org.au/
 location: Manning Clark Centre, ANU, Canberra, Australia
