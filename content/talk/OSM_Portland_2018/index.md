@@ -33,6 +33,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
+  preview_only: true
 
 #links:
 #- icon: twitter
