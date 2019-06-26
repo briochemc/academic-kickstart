@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Talks/Posters
 
 # View.
 #   1 = List
