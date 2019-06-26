@@ -1,7 +1,7 @@
 ---
 title: Plumbing of the biological pump
 event: UNSW Postgrad Conference 2014
-event_url: https://www.maths.unsw.edu.au/sites/default/files/conference_booklet.pdf
+event_url: https://www.maths.unsw.edu.au/news/2014-10/2014-school-postgraduate-conference
 location: UNSW, Sydney, Australia
 summary:
 abstract: >

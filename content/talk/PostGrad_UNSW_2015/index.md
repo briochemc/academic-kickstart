@@ -1,7 +1,7 @@
 ---
 title: An efficient inverse model of the ocean's coupled nutrient cycles
 event: UNSW Postgrad Conference 2015
-event_url: https://www.maths.unsw.edu.au/sites/default/files/conferencebooklet15.pdf
+event_url: https://www.maths.unsw.edu.au/news/2015-06/2015-postgraduate-conference
 location: UNSW, Sydney, Australia
 summary:
 abstract: >
