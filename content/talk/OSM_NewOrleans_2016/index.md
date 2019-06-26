@@ -1,5 +1,6 @@
 ---
-title: Iron control on global productivity: an efficient inverse model of the ocean's coupled phosphate, silicon, and iron cycles
+title: >
+  Iron control on global productivity: an efficient inverse model of the ocean's coupled phosphate, silicon, and iron cycles
 event: Ocean Sciences Meeting 2016
 event_url: https://osm.agu.org/2016/
 location: Ernest N. Morial Convention Center, New Orleans, Louisiana, USA
