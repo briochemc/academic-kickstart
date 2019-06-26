@@ -2,7 +2,7 @@
 title: >
   The efficiency of different iron sources in supporting the ocean's global biological pump
 event: Half-Baked Informal Seminars
-event_url:
+event_url: https://www.ess.uci.edu/
 location: Department of Earth System Science, UCI, Irvine, USA
 summary:
 abstract:
