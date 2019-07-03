@@ -9,7 +9,7 @@ tags:
 date: "2019-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/briochemc/AIBECS.jl"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Source
+  name: Source code
   url: https://github.com/briochemc/AIBECS.jl
 url_code: ""
 url_pdf: ""
