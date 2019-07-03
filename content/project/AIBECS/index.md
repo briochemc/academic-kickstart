@@ -63,11 +63,13 @@ A typical example is if the model is linear (affine), i.e., if
 
 $$\boldsymbol{F}(\boldsymbol{x},\boldsymbol{p}) = \mathbf{A} \, \boldsymbol{x} + \boldsymbol{b}$$
 
-In that case, the model's steady state solution can be computed in a single matrix inversion (via the backslash in MATLAB or Julia), $\boldsymbol{s} = -\mathbf{A} \, \boldsymbol{b}`.
+In that case, the model's steady state solution can be computed in a single matrix inversion (via the backslash in MATLAB or Julia), $\boldsymbol{s} = -\mathbf{A} \, \boldsymbol{b}$.
 
 However, AIBECS also works for nonlinear problems, i.e., when $\boldsymbol{F}(\boldsymbol{x},\boldsymbol{p})$ is nonlinear, covering a much larger range of models!
 In this case, AIBECS uses a state-of-the-art Newton-type solver to find the steady-state solution for you, which is much faster than time-stepping the system until it reaches equilibrium.
 (See, e.g., the work of C. T. Kelley.)
+
+The AIBECS also plays well with the [F1Method](https://github.com/briochemc/F1Method.jl) package, which means that it is ideal for efficient, offline optimization of any biogeochemistry model!
 
 
 
