@@ -2,7 +2,7 @@
 title: "The F-1 algorithm for efficient computation of the Hessian matrix of an objective function defined implicitly by the solution of a steady-state problem"
 authors:
 - admin
-- François W. Primeau
+- "[François W. Primeau](https://www.ess.uci.edu/people/fprimeau)"
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

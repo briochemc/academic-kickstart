@@ -2,7 +2,7 @@
 title: "The plumbing of the global biological pump: Efficiency control through leaks, pathways, and time scales"
 authors:
 - admin
-- Mark Holzer
+- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 date: "2016-01-01T00:00:00Z"
 doi: "10.1002/2016JC011821"
 

@@ -1,10 +1,10 @@
 ---
 title: "Diatom physiology controls the response of the silicon cycle to iron fertilization: silicic-acid leakage or enhanced trapping"
 authors:
-- Mark Holzer
+- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 - admin
-- Timothy DeVries
-- Mark Brzezinski
+- "[Timothy DeVries](https://tdevries.eri.ucsb.edu/)"
+- "[Mark Brzezinski](https://msi.ucsb.edu/people/faculty/mark-brzezinski)"
 date: "2019-01-01T00:00:00Z"
 doi: ""
 

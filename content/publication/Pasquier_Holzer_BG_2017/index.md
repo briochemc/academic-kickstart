@@ -2,7 +2,7 @@
 title: "Inverse-model estimates of the ocean's coupled phosphorus, silicon, and iron cycles"
 authors:
 - admin
-- Mark Holzer
+- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 date: "2017-01-01T00:00:00Z"
 doi: "10.5194/bg-14-4125-2017"
 

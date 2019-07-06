@@ -1,7 +1,7 @@
 ---
 title: "The age of iron and iron source attribution in the ocean"
 authors:
-- Mark Holzer
+- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 - admin
 - Marina Frants
 date: "2016-01-01T00:00:00Z"

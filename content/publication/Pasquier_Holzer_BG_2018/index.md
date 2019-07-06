@@ -2,7 +2,7 @@
 title: "The number of past and future regenerations of iron in the ocean and its intrinsic fertilization efficiency"
 authors:
 - admin
-- Mark Holzer
+- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 date: "2018-01-01T00:00:00Z"
 doi: "10.5194/bg-15-7177-2018"
 
