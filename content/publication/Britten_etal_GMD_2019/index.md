@@ -1,8 +1,8 @@
 ---
 title: "Bayesian research synthesis models in geoscience: a case study of marine organic carbon fluxes"
 authors:
-- [Gregory L. Britten](http://www.gregorybritten.info/home)
-- [Yara Mohajerani](https://yaramohajerani.github.io/)
+- "[Gregory L. Britten](http://www.gregorybritten.info/home)"
+- "[Yara Mohajerani](https://yaramohajerani.github.io/)"
 - Louis Primeau
 - Murat Aydin
 - Catherine Garcia
