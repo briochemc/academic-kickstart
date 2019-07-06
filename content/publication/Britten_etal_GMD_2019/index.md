@@ -4,12 +4,12 @@ authors:
 - "[Gregory L. Britten](http://www.gregorybritten.info/home)"
 - "[Yara Mohajerani](https://yaramohajerani.github.io/)"
 - Louis Primeau
-- Murat Aydin
-- Catherine Garcia
-- Weilei Wang
+- "[Murat Aydin](https://www.ess.uci.edu/people/maydin)"
+- "[Catherine Garcia](https://www.ess.uci.edu/people/catgar)"
+- "[Weilei Wang](https://www.ess.uci.edu/people/weileiw)"
 - admin
-- Barry B. Cael
-- François W. Primeau
+- "[Barry B. Cael](http://paocweb.mit.edu/people/bcaelb)"
+- "[François W. Primeau](https://www.ess.uci.edu/people/fprimeau)"
 date: "2019-01-01T00:00:00Z"
 doi: ""
 
