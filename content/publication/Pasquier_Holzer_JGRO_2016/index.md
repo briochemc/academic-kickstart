@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf = "pdf/Pasquier_Holzer_JGRO_2016.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
