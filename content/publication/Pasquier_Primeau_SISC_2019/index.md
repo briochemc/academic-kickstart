@@ -33,8 +33,8 @@ featured: true
 #   url: ""
 links:
 - name: Supp.
-  url: "Pasquier_Primeau_SISC_draft_supp.pdf"
-url_pdf: "Pasquier_Primeau_SISC_draft.pdf"
+  url: "pdf/Pasquier_Primeau_SISC_draft_supp.pdf"
+url_pdf: "pdf/Pasquier_Primeau_SISC_draft.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
