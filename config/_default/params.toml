@@ -54,9 +54,9 @@ time_format = ""
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pasquieb@uci.edu"
+email = "bp_358@usc.edu"
 phone = ""
-address = "Department of Earth System Science, University of California, Irvine, CA, USA"
+address = "Department of Earth Sciences, University of Southern California, CA, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
