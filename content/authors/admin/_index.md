@@ -14,8 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
-  url: "https://uci.edu/"
+- name: University of Southern California, Los Angeles
+  url: "https://usc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mathematics, oceanography, and computer science.
@@ -62,22 +62,22 @@ social:
   icon_pack: fab
   link: https://github.com/briochemc
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/myCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am a postdoc in the [Department of Earth System Science](https://www.ess.uci.edu/) at the University of California, Irvine. 
+I am a postdoc in [Seth John's lab](http://www.mtel.rocks/mtel/home.html) within the [Department of Earth Sciences](https://dornsifelive.usc.edu/earth/mydepartment/) at the University of Southern California, Los Angeles.
 My research focuses on global marine biogeochemical cycles and involves mathematics, physics, biology, chemistry, and computer science.
 
 Lately I have been developing [AIBECS](https://github.com/briochemc/AIBECS.jl), a Julia package to allow oceanographers to simulate marine tracers with ease — check it out!
