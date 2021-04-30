@@ -19,7 +19,7 @@ authors:
 - admin
 - Ying Ye
 date: "2019-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.marchem.2019.103704"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
