@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, California, USA"
   date_start = "2019-09-01"
   date_end = ""
-  description = "Modelling global marine cycles of trace metals and isotopes with [Seth John](http://www.mtel.rocks/people.html)."
+  description = "Modelling global marine cycles of trace metals and their isotopes with [Seth John](http://www.mtel.rocks/people.html)."
 
 [[experience]]
   title = "Postdoctoral Researcher"
