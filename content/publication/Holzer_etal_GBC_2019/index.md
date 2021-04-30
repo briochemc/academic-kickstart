@@ -6,7 +6,7 @@ authors:
 - "[Timothy DeVries](https://tdevries.eri.ucsb.edu/)"
 - "[Mark Brzezinski](https://msi.ucsb.edu/people/faculty/mark-brzezinski)"
 date: "2019-01-01T00:00:00Z"
-doi: ""
+doi: "10.1029/2019GB006460"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
