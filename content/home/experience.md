@@ -20,11 +20,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Researcher"
+  company = "Department of Earth Sciences, University of Southern California"
+  company_url = "https://http://www.mtel.rocks"
+  location = "LosAngeles, California, USA"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = "Modelling trace-metal with [Seth John](http://www.mtel.rocks/people.html)."
+
+[[experience]]
+  title = "Postdoctoral Researcher"
   company = "Department of Earth System Science, University of California, Irvine"
   company_url = "https://www.ess.uci.edu/"
   location = "Irvine, California, USA"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2019-09-01"
   description = "Working on improving global biogeochemistry models with [J. Keith Moore](https://www.ess.uci.edu/~jkmoore/) and [François Primeau](https://www.ess.uci.edu/people/fprimeau)."
 
 [[experience]]
