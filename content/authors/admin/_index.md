@@ -15,7 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: School of Mathematics and Statistics, University of New South Wales, Sydney
-  url = "https://www.maths.unsw.edu.au/"
+  url: "https://www.maths.unsw.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mathematics, oceanography, and computer science.
