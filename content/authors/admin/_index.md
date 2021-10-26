@@ -14,8 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California, Los Angeles
-  url: "https://usc.edu/"
+- name: School of Mathematics and Statistics, University of New South Wales, Sydney
+  url = "https://www.maths.unsw.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mathematics, oceanography, and computer science.
@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc in [Seth John's lab](http://www.mtel.rocks/mtel/home.html) within the [Department of Earth Sciences](https://dornsifelive.usc.edu/earth/mydepartment/) at the University of Southern California, Los Angeles.
+I am a Research Associate working with [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/) within the [School of Mathematics and Statistics](https://www.maths.unsw.edu.au/) of the University of New South Wales, Sydney.
 My research focuses on global marine biogeochemical cycles and involves mathematics, physics, biology, chemistry, and computer science.
 
 Lately I have been developing [AIBECS](https://github.com/briochemc/AIBECS.jl), a Julia package to allow oceanographers to simulate marine tracers with ease — check it out!
