@@ -19,12 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Associate"
+  company = "School of Mathematics and Statistics, University of New South Wales"
+  company_url = "https://www.maths.unsw.edu.au/"
+  location = "Sydney, NSW, Australia"
+  date_start = "2021-10-25"
+  date_end = ""
+  description = "Studying the biological pump in a changing climate with [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)."
+
+[[experience]]
   title = "Postdoctoral Researcher"
   company = "Department of Earth Sciences, University of Southern California"
   company_url = "https://http://www.mtel.rocks"
   location = "Los Angeles, California, USA"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-10-24"
   description = "Modelling global marine cycles of trace metals and their isotopes with [Seth John](http://www.mtel.rocks/people.html)."
 
 [[experience]]
