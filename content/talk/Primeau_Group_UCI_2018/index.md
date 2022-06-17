@@ -2,7 +2,7 @@
 title: >
   Offline parameter optimization for global marine biogeochemical models
 event: Primeau Group Meeting Presentation
-event_url: https://www.ess.uci.edu/~fprimeau/home
+event_url: https://faculty.sites.uci.edu/primeau/
 location: Department of Earth System Science, UCI, Irvine, USA
 summary:
 abstract:

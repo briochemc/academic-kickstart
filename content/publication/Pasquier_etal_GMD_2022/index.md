@@ -2,12 +2,11 @@
 title: "GNOM v1.0: an optimized steady-state model of the modern marine neodymium cycle"
 authors:
 - admin
-- "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
-- "[Sophia K. V. Hines]()"
-- "[Hengdi Liang]()"
-- "[Yingzhe Wu"]()
-- "[Steven L. Goldstein"]()"
-- "[Seth G. John]()"
+- "[Sophia K. V. Hines](https://hineslab.whoi.edu/)"
+- "[Hengdi Liang](http://www.mtel.rocks/people.html)"
+- "[Yingzhe Wu"](https://lamont.columbia.edu/directory/yingzhe-wu)
+- "[Steven L. Goldstein"](https://lamont.columbia.edu/directory/steven-l-goldstein)"
+- "[Seth G. John](http://www.mtel.rocks/people.html)"
 date: "2022-06-17T00:00:00Z"
 doi: "10.5194/gmd-15-4625-2022"
 

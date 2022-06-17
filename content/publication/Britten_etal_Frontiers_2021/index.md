@@ -9,7 +9,7 @@ authors:
 - "[Weilei Wang](https://www.ess.uci.edu/people/weileiw)"
 - admin
 - "[Barry B. Cael](http://paocweb.mit.edu/people/bcaelb)"
-- "[François W. Primeau](https://www.ess.uci.edu/people/fprimeau)"
+- "[François W. Primeau](https://faculty.sites.uci.edu/primeau/)"
 date: "2021-03-01T00:00:00Z"
 doi: "10.3389/fenvs.2021.491636"
 

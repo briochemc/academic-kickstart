@@ -1,23 +1,24 @@
 ---
-title: "The F-1 algorithm for efficient computation of the Hessian matrix of an objective function defined implicitly by the solution of a steady-state problem"
+title: "AIBECS.jl: A tool for exploring global marine biogeochemical cycles"
 authors:
 - admin
 - "[François W. Primeau](https://faculty.sites.uci.edu/primeau/)"
-date: "2021-04-30T00:00:00Z"
-doi: ""
+- "[Seth G. John](http://www.mtel.rocks/people.html)"
+date: "2022-01-05T00:00:00Z"
+doi: "10.21105/joss.03814"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-30T00:00:00Z"
+publishDate: "2022-01-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "TBC"
-publication_short: "in preparation"
+publication: "*Journal of Open Source Software*"
+publication_short: ""
 
 abstract:
 
@@ -31,11 +32,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-links:
-- name: Draft PDF
-  url: "pdf/Pasquier_Primeau_SISC_draft.pdf"
-- name: Draft Supplement
-  url: "pdf/Pasquier_Primeau_SISC_draft_supp.pdf"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'AIBECS logo — see [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl)'
   focal_point: ""
   preview_only: true
 
