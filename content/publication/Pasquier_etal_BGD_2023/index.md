@@ -4,7 +4,6 @@ authors:
 - admin
 - "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 - "[Matthew A. Chamberlain](https://orcid.org/0000-0002-3287-3282)"
-- "[Richard J. Matear](https://people.csiro.au/M/R/Richard-Matear)"
 date: "2023-12-26T00:00:00Z"
 doi: "10.5194/egusphere-2023-2525"
 

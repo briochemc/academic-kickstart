@@ -1,15 +1,16 @@
 ---
-title: "The ocean's biological and preformed carbon pumps in future steady-state climate scenarios"
+title: "Future ocean deoxygenation driven by circulation changes: analyses of steady-state future scenarios"
 authors:
 - admin
 - "[Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/)"
 - "[Matthew A. Chamberlain](https://orcid.org/0000-0002-3287-3282)"
 - "[Richard J. Matear](https://people.csiro.au/M/R/Richard-Matear)"
-date: "2023-12-26T00:00:00Z"
-doi: "10.5194/egusphere-2023-2525"
+- "[Nathaniel L. Bindoff](https://discover.utas.edu.au/N.Bindoff)"
+date: "2024-12-27T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-26T00:00:00Z"
+publishDate: "2024-12-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,20 +19,20 @@ publishDate: "2023-12-26T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biogeosciences Discussion*"
+publication: "*JGR:Oceans "
 publication_short: ""
 
 abstract: >
-  The future of the marine carbon cycle is vitally important for climate and the fertility of the oceans.
-  However, predictions of future biogeochemistry are challenging because a myriad of processes needs parameterization and the future evolution of the physical ocean state is uncertain.
-  Here, we embed a data-constrained model of the carbon cycle in steady circulations that correspond to perpetual 2090s conditions as simulated for the RCP4.5 and RCP8.5 scenarios.
-  Focusing on steady-state changes from preindustrial conditions allows us to capture the response of the system on all timescales, not just on the sub-centennial timescales of typical transient simulations.
-  We find that biological production experiences only modest declines because the reduced nutrient supply by a more sluggish future circulation is counteracted by warming-stimulated growth.
-  Organic-matter export declines by 15–25 % due to reductions in both biological production and export ratios, the latter driven by warming-accelerated shallow respiration and reduced subduction of dissolved organic matter.
-  The future biological pump cycles a 30–70 % larger regenerated inventory accumulated over longer sequestration times, while preformed DIC is shunted away from biological utilization to outgassing.
-  We develop a conceptually new partitioning of preformed DIC to quantify the ocean's preformed carbon pump and its future changes.
-  Near-surface paths of preformed DIC become more important in the future as weakened ventilation isolates the deep ocean.
-  Thus, while regenerated DIC cycling becomes slower in the future, preformed DIC cycling speeds up for inventory changes of similar magnitude.
+  The deoxygenation of the ocean is an important consequence of climate change that poses an imminent threat to marine life and global food security.
+  However, our understanding of how the ocean's oxygen cycle is changing is incomplete because of the complex interactions between changes in circulation, solubility, and respiration that drive global-scale deoxygenation.
+  Here we quantify these drivers using a data-constrained model of the global marine oxygen cycle embedded in idealized steady ocean circulations for both preindustrial and future perpetual 2090s conditions taken from climate-model simulations.
+  We disentangle the effects of the deoxygenation drivers on preformed oxygen and true oxygen utilization (TOU) using the novel concept of upstream exposure time, which precisely connects TOU to oxygen utilization rates and preformed oxygen to ventilation.
+  We find widespread intense deep-ocean deoxygenation due to increased TOU, driven dominantly by a future circulation slowdown that allows respiration to act roughly 2–3 times longer thereby overwhelming the effect of reduced future respiration rates.
+  In the upper ocean, decreased respiration and slower circulation closely compensate, resulting in little expansion of upper-ocean hypoxia.
+  The bulk of preformed oxygen loss is driven by ventilation shifting equatorward to where warmer surface waters hold less oxygen.
+  Warming-driven declines in solubility account for less than 10 % of the total oxygen loss.
+  Our results show that the steady-state response of the oxygen cycle to changes in ocean state is driven dominantly by circulation rather than by thermodynamic or biological changes.
+
 
 
 # Summary. An optional shortened abstract.
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Preformed C inventories, flowrates, and timescales — see [*Pasquier et al.*, 2023](10.5194/egusphere-2023-2525)'
+  caption: 'Drivers of deoxygenation — see *Pasquier et al.*, 2024 (under review)'
   focal_point: ""
   preview_only: true
 
