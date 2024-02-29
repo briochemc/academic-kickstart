@@ -80,4 +80,6 @@ user_groups:
 I am a Research Associate working with [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/) within the [School of Mathematics and Statistics](https://www.maths.unsw.edu.au/) of the University of New South Wales, Sydney.
 My research focuses on global marine biogeochemical cycles and involves mathematics, physics, biology, chemistry, and computer science.
 
-Lately I have been developing [AIBECS](https://github.com/briochemc/AIBECS.jl), a Julia package to allow oceanographers to simulate marine tracers with ease — check it out!
+Lately I have been working on exploring the response of the carbon and oxygen cycles to climate change using novel tools and diagnostics.
+
+Before that I was developing [AIBECS](https://github.com/briochemc/AIBECS.jl), a Julia package to allow oceanographers to simulate marine tracers with ease — check it out!
