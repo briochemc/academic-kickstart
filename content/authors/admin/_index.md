@@ -56,7 +56,7 @@ social:
 #   icon_pack: fab
 #   link: https://twitter.com/briochemc
 - icon: google-scholar
-  icon_pack: fa-brands
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=yQb2Pm4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
