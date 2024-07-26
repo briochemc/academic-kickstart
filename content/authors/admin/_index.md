@@ -56,7 +56,7 @@ social:
 #   icon_pack: fab
 #   link: https://twitter.com/briochemc
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=yQb2Pm4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -78,7 +78,7 @@ user_groups:
 ---
 
 I am a Research Associate currently working with Associate Professor [Mark Holzer](https://web.maths.unsw.edu.au/~markholzer/) within the [School of Mathematics and Statistics](https://www.maths.unsw.edu.au/) of the University of New South Wales, Sydney.
-My latest research focus has been on the response of the global ocean's [carbon]() and [oxygen]() cycles to climate change using novel tools and diagnostics.
+My latest research focus has been on the response of the global ocean's carbon and oxygen cycles to climate change using novel tools and diagnostics.
 
 More generally, my research broadly encompasses anything related to marine biogeochemical cycles and tracers, which requires a bit of mathematics, physics, biology, chemistry, and computer science (see [publications](#publications)).
 
