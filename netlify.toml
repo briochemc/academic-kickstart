@@ -16,5 +16,5 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [[redirects]]
-  from = "www.bpasquier.com/*"
+  from = "www.bpasquier.com"
   to = "briochemc.github.io"
