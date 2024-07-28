@@ -18,3 +18,4 @@
 [[redirects]]
   from = "/*"
   to = "briochemc.github.io"
+  force = true
